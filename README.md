@@ -1,20 +1,21 @@
-# TITLE
+# Case Study - Magic Notes by Beam
 
 ## Overview and Origin
 
-* Name of company
+* Beam
 
-* When was the company incorporated?
+* Founded in 2017
 
-* Who are the founders of the company?
+* Alex Stephany and Seb Barker
 
-* How did the idea for the company (or project) come about?
+* Founded in 2017 for the purpose of bringing in new technology to solve old social problems?
 
-* How is the company funded? How much funding have they received?
+* Seed funding in 2020; Series A funding in 2023 and 2024. The Beam Foundation, a registered charity, has raised £5m in donations to date, through a combination of crowdfunding from individuals, corporate partnerships, and philanthropic grants.
+https://solve.mit.edu/challenges/2024-global-economic-prosperity-challenge/solutions/88194
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve?
+* What specific problem is the company or project trying to solve? The goal is to update the outdated case management systems with innovative tools that increase efficiency in handling social work cases, thus getting people help quicker.
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
@@ -47,3 +48,11 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference, with further explanation and a [supporting link](https://website.com).
+
+Here is another footnote[^2].
+
+[^2]: Another reference.
