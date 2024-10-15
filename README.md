@@ -48,11 +48,11 @@
 
 [^4]: Social Care Trends [supporting link](https://www.charecruitment.com/blog/2022/12/social-care-trends-to-watch-out-for-in-2023?source=google.com).
 
-[^5]: Top Social Worker Companies England [supporting link]([https://www.glassdoor.com/Explore/top-social-worker-companies-england_IO.4,17_IL.28,35_IS7287.htm](https://www.glassdoor.com/Explore/top-social-worker-companies-england_IO.4,17_IL.28,35_IS7287.htm)).
+[^5]: Top Social Worker Companies England [supporting link](https://www.glassdoor.com/Explore/top-social-worker-companies-england_IO.4,17_IL.28,35_IS7287.htm).
 
 [^6]: A breakdown of the Domain Industry 2024 [supporting link]( https://circleid.com/posts/20240320-a-breakdown-of-the-domain-industry-2024#:~:text=ai%20has%20emerged%20as%20one,the%20high%20international%20demand%20for%20.)
 
-[^7]: Artificial Intelligence in Social Work: Emerging Ethical Issues [supporting link]([https://jswve.org/volume-20/issue-2/item-05/#:~:text=AI%20is%20being%20used%20to,service%20outcomes%2C%20among%20other%20uses](https://jswve.org/volume-20/issue-2/item-05/#:~:text=AI%20is%20being%20used%20to,service%20outcomes%2C%20among%20other%20uses)).
+[^7]: Artificial Intelligence in Social Work: Emerging Ethical Issues [supporting link](https://jswve.org/volume-20/issue-2/item-05/#:~:text=AI%20is%20being%20used%20to,service%20outcomes%2C%20among%20other%20uses).
 
 [^8]: AI could be time-saving for social workers but needs regulation, say sector bodies [supporting link](https://www.communitycare.co.uk/2024/10/04/ai-could-be-time-saving-for-social-workers-but-needs-regulation-say-sector-bodies/)
 
@@ -62,4 +62,4 @@
 
 [^11]: UK Social Worker Company comparisons [supporting link](https://growjo.com/company/BEAM).
 
-[^12]: Is a mobile app as good as a therapist? [supporting link]([https://www.health.harvard.edu/blog/is-a-mobile-app-as-good-as-a-therapist-202202072683](https://www.health.harvard.edu/blog/is-a-mobile-app-as-good-as-a-therapist-202202072683))
+[^12]: Is a mobile app as good as a therapist? [supporting link](https://www.health.harvard.edu/blog/is-a-mobile-app-as-good-as-a-therapist-202202072683)
