@@ -30,6 +30,8 @@
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years? In 2023, the UK announced a social care funding increase of $2.8 billion, followed by $4.7 billion in 2024. The plan also includes enhanced inspection guidelines, digitized care improvements, energy tariff reforms, food waste recycling initiatives, and greater transparency on future objectives. [^4]
 
+* What are the AI Domain Trends in regards to social work? AI is beginning to become more prevelant in social work. AI is being used for risk assessments, assist people in crisis, strengthen prevention, identify systemic biases and the delivery of digitized social services. [^9] AI must be regulated as noted in this quote ... > ..the rise of AI in social work has also sparked concerns about data privacy for families, bias, and whether AI-generated actions will be adequately reviewed before being carried out. [^10]
+
 * What are the other major companies in this field? Major social work companies in the UK include NHS England, Kent County Council, Sanctuary Personnel & Hertfordshire County Council. [^5]
 
 
@@ -50,6 +52,8 @@
 
 * What technologies would this additional product or service utilize? I would leverage advanced AI techniques, such as neural networks and machine learning, to transform and enhance mental health support. 
 
+* Do mental health applications work? Recent studies show that mobile mental health applications do not replace therapy but they do complement it [^11]. 
+
 * Why are these technologies appropriate for your solution? The human element, driven by AI models, neural networks, and data, will be key to this tool's success.
 
 
@@ -61,3 +65,6 @@
 [^6]: Beam.org - Company Impact [supporting link](https://beam.org/company-impact).
 [^7]: How does Beam measure social impact? [supporting link](https://help.beam.org/en/articles/2794725-how-does-beam-measure-social-impact).
 [^8]: UK Social Worker Company comparisons [supporting link](https://growjo.com/company/BEAM).
+[^9]: Artificial Intelligence in Social Work: Emerging Ethical Issues [supporting link](https://jswve.org/volume-20/issue-2/item-05/#:~:text=AI%20is%20being%20used%20to,service%20outcomes%2C%20among%20other%20uses).
+[^10]: AI could be time-saving for social workers but needs regulation, say sector bodies [supporting link](https://www.communitycare.co.uk/2024/10/04/ai-could-be-time-saving-for-social-workers-but-needs-regulation-say-sector-bodies/)
+[^11]: Is a mobile app as good as a therapist? [supporting link](https://www.health.harvard.edu/blog/is-a-mobile-app-as-good-as-a-therapist-202202072683)
