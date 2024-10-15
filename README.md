@@ -30,7 +30,7 @@
 
 ## Results
 
-* In a short time, Beam has made a large business impact on the community by supporting almost 5k people and saving the taxpayer $90 million euros [^9]. Beam uses social metrics to measure the positive social impact. The metrics focus on positive milestones [^10]. Beam is performing moderately considering they haven’t been around a long time in the UK but are well positioned to thrive in the coming years. The dynamic numbers can be found [here]( [https://beam.org/company-impact](https://beam.org/company-impact)). Beam performs well against its competitors, standing out with unique features like crowdfunding for the homeless. Additionally, Beam's employee growth surpasses that of its rivals [^11].
+* In a short time, Beam has made a large business impact on the community by supporting almost 5k people and saving the taxpayer $90 million euros [^9]. Beam uses social metrics to measure the positive social impact. The metrics focus on positive milestones [^10]. Beam is performing moderately considering they haven’t been around a long time in the UK but are well positioned to thrive in the coming years. The dynamic numbers can be found [here](https://beam.org/company-impact). Beam performs well against its competitors, standing out with unique features like crowdfunding for the homeless. Additionally, Beam's employee growth surpasses that of its rivals [^11].
 
 ## Recommendations
 
