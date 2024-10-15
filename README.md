@@ -1,12 +1,8 @@
 # Case Study - Magic Notes by Beam
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ## Overview and Origin
 
-* Name of Company - Beam
-
-* AI Tool - Magic Notes
-
+* Beam.org
 * When was the company incorporated? Founded in 2017
 
 * Who are the founders of the company? Alex Stephany and Seb Barker
@@ -27,11 +23,11 @@
 
 ## Landscape
 
-* What field is the company in? Civil Industry - Social Work field [^3]
+* What field is the company in? Social Work field [^3]
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years? In 2023, the UK announced a social care funding increase of $2.8 billion, followed by $4.7 billion in 2024. The plan also includes enhanced inspection guidelines, digitized care improvements, energy tariff reforms, food waste recycling initiatives, and greater transparency on future objectives [^4].
 
-* What are the AI Domain Trends in regards to social work? AI is beginning to become more prevelant in social work. AI is being used for risk assessments, assist people in crisis, strengthen prevention, identify systemic biases and the delivery of digitized social services. [^9] AI must be regulated as noted in this quote... 
+* What are the AI Domain Trends in regards to social work? AI is beginning to become more prevalant in social work. AI is being used for risk assessments, assist people in crisis, strengthen prevention, identify systemic biases and the delivery of digitized social services. [^9] As AI continues to evolve at an unprecedented pace, it's becoming increasingly critical to ensure proper oversight and ethical guidelines are in place. As one source noted..
 > ..the rise of AI in social work has also sparked concerns about data privacy for families, bias, and whether AI-generated actions will be adequately reviewed before being carried out [^10].
 
 * What are the other major companies in this field? Major social work companies in the UK include NHS England, Kent County Council, Sanctuary Personnel & Hertfordshire County Council [^5].
@@ -41,7 +37,7 @@
 
 * What has been the business impact of this company so far? Beam has supported almost 5k people and has saved the taxpayer $90 million euros [^6].
 
-* What are some of the core metrics that companies in this field use to measure success? Beam uses social metrics to measure the positive social impact. The metrics forcus on positive milestones [^7]. How is your company performing based on these metrics?  By the numbers [^6].
+* What are some of the core metrics that companies in this field use to measure success? Beam uses social metrics to measure the positive social impact. The metrics focus on positive milestones [^7]. How is your company performing based on these metrics?  By the numbers [^6].
 
 * How is your company performing relative to competitors in the same field? Beam performs well against its competitors, standing out with unique features like crowdfunding for the homeless. Additionally, Beam's employee growth surpasses that of its rivals [^8].
 
@@ -50,7 +46,7 @@
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!). In assessing their impact in the social work field, I would recommend developing a tool specifically focused on supporting mental health care.
 
-* Why do you think that offering this product or service would benefit the company? This product would foster a closer connection with clients, providing a reliable support system for those who may not have immediate access to a case worker.
+* Why do you think that offering this product or service would benefit the company? This product will foster a close connection with clients, providing a reliable support system for those who may not have immediate access to a case worker.
 
 * What technologies would this additional product or service utilize? I would leverage advanced AI techniques, such as neural networks and machine learning, to transform and enhance mental health support. 
 
