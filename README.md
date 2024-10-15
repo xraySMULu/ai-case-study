@@ -1,7 +1,5 @@
 # Case Study - Magic Notes by Beam
-[![build status](https://github.com/xraySMULu/ai-case-study/blob/main/.github/workflows/blank.yml)](https://github.com/xraySMULu/ai-case-study/blob/main/.github/workflows/blank.yml)
-[![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)]
-[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ## Overview and Origin
 
