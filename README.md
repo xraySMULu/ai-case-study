@@ -1,6 +1,5 @@
 # Case Study - Magic Notes by Beam
-
-* The development of artificial intelligence (AI) tools in social work enhances efficiency, but it requires careful regulation to ensure ethical and effective implementation.
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
 
 ## Overview and Origin
 
