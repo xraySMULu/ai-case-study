@@ -1,9 +1,9 @@
 # Case Study - Magic Notes by Beam
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)[![GitLab](https://badgen.net/badge/icon/gitlab?icon=gitlab&label)](https://https://gitlab.com/)
 
 ## Overview and Origin
+ 
+* This case study examines an artificial intelligence (AI) assessment tool called Magic Notes, developed by a UK-based company called Beam. The tool aims to modernize outdated case management systems by introducing innovative tools designed to streamline the handling of social work cases, ultimately speeding up the process of aiding those in need [^1]. Beam was founded in 2017 by Alex Stephany and Seb Barker with a goal to harness new technology in addressing longstanding social challenges. Beam is leveraged Seed funding in 2020, followed by Series A funding in 2023 and 2024. The Beam Foundation, a registered charity, has raised $5 million in donations to date through a mix of crowdfunding from individuals, corporate partnerships, and philanthropic grants [^1]. 
 
-* This case study examines an artificial intelligence (AI) assessment tool called Magic Notes, developed by a UK-based company called Beam. The tool aims to modernize outdated case management systems by introducing innovative tools designed to streamline the handling of social work cases, ultimately speeding up the process of aiding those in need [^1]. Beam was founded in 2017 by Alex Stephany and Seb Barker with a goal to harness new technology in addressing longstanding social challenges. Beam is leveraged Seed funding in 2020, followed by Series A funding in 2023 and 2024. The Beam Foundation, a registered charity, has raised $5 million in donations to date through a mix of crowdfunding from individuals, corporate partnerships, and philanthropic grants [^1].
 
 ## Business Activities
 
@@ -39,6 +39,11 @@
 
 * The human element, driven by AI models, neural networks, and data, will be key to this tool's success.
 
+## Code Source
+* Github Repository - https://github.com/xraySMULu/ai-case-study/
+** Readme file - https://github.com/xraySMULu/ai-case-study/blob/main/README.md
+
+
 [^1]: Solve - MIT - 2024 Global Economic Prosperity Challenge [supporting link](https://solve.mit.edu/challenges/2024-global-economic-prosperity-challenge/solutions/88194).
 
 [^2]: How many people are homeless in the UK? [supporting link](https://www.bigissue.com/news/housing/how-many-people-are-homeless-in-the-uk-and-what-can-you-do-about-it/).
@@ -62,3 +67,4 @@
 [^11]: UK Social Worker Company comparisons [supporting link](https://growjo.com/company/BEAM).
 
 [^12]: Is a mobile app as good as a therapist? [supporting link](https://www.health.harvard.edu/blog/is-a-mobile-app-as-good-as-a-therapist-202202072683)
+
